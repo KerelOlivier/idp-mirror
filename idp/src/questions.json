@@ -1,0 +1,22 @@
+{
+    "questions":
+    [
+        {
+            "category": "Sex",
+            "question": "What is your sex?",
+            "answers": [
+                {"value":"Male", "weight":10},
+                {"value":"Female", "weight":20}
+            ]
+        },
+        {
+            "category": "Envirnment",
+            "question": "Where do you live?",
+            "answers": [
+                {"value":"City", "weight":20},
+                {"value":"sub-urban", "weight":10},
+                {"value":"Rural", "weight":5}
+            ]
+        }
+    ]
+}
